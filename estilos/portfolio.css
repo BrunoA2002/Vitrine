@@ -1,0 +1,42 @@
+.paragrafo{
+    font-family: "Crimson Text", "Times New Roman", serif;
+    font-size: 120%;
+    text-align: left;
+    margin: 10px 5px 10px 350px;
+}
+.bordas-sites-esquerda{
+    width: 300px; 
+    height: 200px;
+    display: table;
+    float: left;
+    box-sizing: border-box;
+    border: 10px solid black;
+    margin: 10px 5px 10px 350px;
+}
+.bordas-sites-direita{
+    width: 300px; 
+    height: 200px;
+    display: table;
+    float: right;
+    box-sizing: border-box;
+    border: 10px solid black;
+    margin: 10px 250px 10px 15px;
+}
+.bordas-sites-cima{
+    width: 300px; 
+    height: 200px;
+    display: table;
+    float: left;
+    box-sizing: border-box;
+    border: 10px solid black;
+    margin: 10px 5px 10px 350px;
+}
+.bordas-sites-baixo{
+    width: 300px; 
+    height: 200px;
+    display: table;
+    float: right;
+    box-sizing: border-box;
+    border: 10px solid black;
+    margin: 10px 250px 10px 15px;
+}

@@ -1,0 +1,16 @@
+.citacao-blog{
+    background-color: #c9c9c9;
+    text-align: center;
+    padding: 5px 300px;
+    width: 100%;
+    box-sizing: border-box;
+    height: 300px;    
+}
+.espaco{
+    margin: 20px 5px 20px 5px;
+}
+.risquinho{
+    border: 10px solid black;
+    border-width: 0 0 1px 0;
+    margin: 20px 5px 20px 5px;
+}
